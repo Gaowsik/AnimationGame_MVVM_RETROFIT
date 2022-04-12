@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".IntroActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Are you the animated television series fan?"
+        android:textColor="#FFFFFF"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_go"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:background="@drawable/buttons"
+        android:gravity="center"
+        android:text="Lets find out"
+        android:textColor="#FFFBFB"
+        android:textSize="20sp" />
+</LinearLayout>

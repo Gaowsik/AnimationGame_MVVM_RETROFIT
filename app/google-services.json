@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628031772962",
+    "project_id": "animationapp-cecf0",
+    "storage_bucket": "animationapp-cecf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628031772962:android:54c74f0061c1b58cfded7b",
+        "android_client_info": {
+          "package_name": "com.example.cis_gui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628031772962-hmjllhdbm8ac5d8t2i8k04a63ib1lbit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cis_gui",
+            "certificate_hash": "83b4aff50043b5aa45786ca20cbd7d72f5a729c0"
+          }
+        },
+        {
+          "client_id": "628031772962-6hqavpam8pqe55705qghcs7u740c2pbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUyyJox09JGkywktoQYPcBDtRIplaKVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628031772962-6hqavpam8pqe55705qghcs7u740c2pbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
